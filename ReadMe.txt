@@ -16,7 +16,7 @@ The code was authored by Dr. Dwarakanath Ravikumar who can be contacted at dtrip
 REPOSITORY DETAILS
 ------------------
 
-The repository consists of 11 files, which should be placed in the same folder.
+The repository consists of 10 python (.py) files, 1 excel (.XLSX) file and 1 ReadMe (.txt) file, which should be placed in the same folder.
 
 1. CCU_Concrete_Constants.py: This python file contains the constants required to conduct the histogram (Figure 3 manuscript), scatter plot (Figure 4 manuscript) and delta indices analysis (Figure 5 manuscript).
 
