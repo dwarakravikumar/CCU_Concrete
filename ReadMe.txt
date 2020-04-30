@@ -13,7 +13,7 @@ AUTHORSHIP AND CONTACT DETAILS
 The code was authored by Dr. Dwarakanath Ravikumar who can be contacted at dtriplic@umich.edu
 
 ------------------
-REPOSITORY DETAILS
+REPOSITORY DETAILS XYZ
 ------------------
 
 The repository consists of 10 python (.py) files, 1 excel (.XLSX) file and 1 ReadMe (.txt) file, which should be placed in the same folder.
